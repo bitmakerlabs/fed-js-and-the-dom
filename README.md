@@ -5,3 +5,6 @@ Using only Javascript (no direct CSS or HTML changes allowed):
   4. Set the `background-color` of the `body` to be the same `background-color` as the 2nd box
   5. Store the `height` and `width` of the 2nd box and give the 1st and 3rd box the same size
   6. Set the `title` attribute of each box to match it's new text (hover your mouse to test)
+  7. Use a condition statement to toggle the modal open if it's not visible, and closed if it's open
+    - Complete by checking the value of the CSS `display` property
+    - Complete using the `contain()` function on the `classList`
